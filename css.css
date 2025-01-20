@@ -1,0 +1,7 @@
+.view-user a[href="/child_domain"],
+.view-user a[href="/prices"],
+.view-user label[for="switch_dark_mode"],
+.view-user #switch_dark_mode,
+.view-user .dark-mode-label {
+  display: none;
+}
