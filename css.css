@@ -5,3 +5,6 @@
 .view-user .dark-mode-label {
   display: none;
 }
+.view-user {
+  background: antiquewhite;
+}
